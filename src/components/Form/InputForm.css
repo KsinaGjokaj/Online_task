@@ -1,0 +1,30 @@
+.form {
+   width: 30%;
+   padding: 30px;
+   display: flex;
+   justify-content: space-between;
+
+
+}
+
+.form label {
+   display: block;
+   font-family: 'Times New Roman', Times, serif;
+   font-size: 20px;
+}
+
+
+.main {
+   margin: 70px;
+   background-color: antiquewhite;
+
+}
+
+.paragraph {
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   font-size: medium;
+   font-style: italic;
+   padding-left: 30px;
+   padding-top: 50px;
+
+}
